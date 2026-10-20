@@ -47,3 +47,4 @@
 - [开源社区投票决策，简单投票是否适合技术项目](https://github.com/atlasjessicarxj/NFvNVi/commit/39d62bfcfb8e59453979f71e29291b2791865c94)
 - [装饰器模式业务增强 Demo 完整源码不修改原代码扩展功能](https://github.com/atlasjessicarxj/NFvNVi/commit/709f2a397d2c440f937fce1caad37894a6684057)
 - [绿色AI，大模型训练推理降能耗、碳成本核算](https://github.com/atlasjessicarxj/NFvNVi/commit/41235723e1788c568208b0dccd30280364ba2ed8)
+- [拿来即用接口代码资源库 全套源码配套运行异常处理方案](https://github.com/atlasjessicarxj/NFvNVi/commit/ad1f55bd1b967978c9c9f08bbb19707e02f27cd0)
