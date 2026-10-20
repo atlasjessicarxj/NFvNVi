@@ -162,3 +162,4 @@
 - [乡村旅游热度消退，如何实现长效可持续经营](https://github.com/atlasjessicarxj/NFvNVi/commit/ba520a4c00882c0d44772151c8aebddbfffc7cb2)
 - [har包请求耗时排序导出，按请求响应耗时排序har内请求](https://github.com/atlasjessicarxj/NFvNVi/commit/70b5ca2c8b6606bde4c387307d184b72ce1e9eee)
 - [开源知识库文档对过时内容添加醒目标注](https://github.com/atlasjessicarxj/NFvNVi/commit/ef00ebf62a8ded7b30fdbd39d098c101bc9dba8a)
+- [AI项目成本核算，数据集标注人力成本容易忽略](https://github.com/atlasjessicarxj/NFvNVi/commit/aa3195b7380f9a52d21b8b8be88e4608ac50d868)
