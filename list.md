@@ -185,3 +185,4 @@
 - [开源实用代码资源库 完整工程附带踩坑复盘解决文档](https://github.com/atlasjessicarxj/NFvNVi/commit/5c7ef19a41e549a25aecef67a58ca71395a2ec7f)
 - [Workflow中调用外部脚本，远程脚本劫持风险](https://github.com/atlasjessicarxj/NFvNVi/commit/9c99c1dac60d1691c023a24a62a158d63e6285f7)
 - [消费电子创新乏力行业需要哪些新品类打开增长天花板](https://github.com/atlasjessicarxj/NFvNVi/commit/82e88f908b3d67cbe4f361e0ab82315d6077b75b)
+- [GitHub 消息队列自动化开源资源 可运行源码与本地落地实施手册](https://github.com/atlasjessicarxj/NFvNVi/commit/e398d5dd7d28767e6e204e737e1951151ed5fd31)
