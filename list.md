@@ -145,3 +145,4 @@
 - [备份完整性校验脚本，校验备份文件异常告警](https://github.com/atlasjessicarxj/NFvNVi/commit/139da6aec863ef6b04a391ae24aa8e8fa16495b5)
 - [json数组对象扁平化导出csv，嵌套json数组直接导出csv表格](https://github.com/atlasjessicarxj/NFvNVi/commit/b00a9262bc5aa4b20f27d4d195abbe159615a6db)
 - [技术文档站点加速百度抓取的实用小技巧](https://github.com/atlasjessicarxj/NFvNVi/commit/9930756f065dabb975fe44370386893d5b1a0bb8)
+- [服务实例权重管理源码 完整源码实例权重动态调整](https://github.com/atlasjessicarxj/NFvNVi/commit/c9f771684bf1f03dcb36fa7f5bdfaa07078321d7)
