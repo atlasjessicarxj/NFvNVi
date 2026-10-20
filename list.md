@@ -168,3 +168,4 @@
 - [静态开源站点处理页面重定向避免死链](https://github.com/atlasjessicarxj/NFvNVi/commit/06d21ea107c3e4aeddbe55f77de2e38510df05de)
 - [markdown文档下载外部链接，批量下载md外链资源替换本地路径](https://github.com/atlasjessicarxj/NFvNVi/commit/56b8ca1bd044818e9a5ccd07c80575eaf0478dfb)
 - [物价联动补贴启动，哪些困难群体可以领到补贴](https://github.com/atlasjessicarxj/NFvNVi/commit/7fbffa9d107196359da890bab3bb1796abda3e6e)
+- [工业知识图谱自动构建，设备工艺非结构化抽取](https://github.com/atlasjessicarxj/NFvNVi/commit/4b0f74aa6f4702ec6232741d5a67b4b68ff11397)
