@@ -121,3 +121,4 @@
 - [低利率时代家庭理财如何选择，普通居民资产配置思路转变](https://github.com/atlasjessicarxj/NFvNVi/commit/d521f373e574f774fe5628403a69234bbedfcf62)
 - [Setup脚本没有权限检查，随意修改系统全局文件](https://github.com/atlasjessicarxj/NFvNVi/commit/822a7b69dbac385794ecd920142d417b6b2bbd84)
 - [无第三方依赖开源组件 二次开发文档与快速部署实操指南](https://github.com/atlasjessicarxj/NFvNVi/commit/0a86b2fea8a2eab4316c0f479e31c0c33fb717ec)
+- [数据解析处理开源仓库 完整源码附带数据集演示案例](https://github.com/atlasjessicarxj/NFvNVi/commit/63ea11eaf97d1ca5f48c49024bc7072ce5b92b2c)
