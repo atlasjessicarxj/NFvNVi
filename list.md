@@ -31,3 +31,4 @@
 - [promql结果json转csv工具，将promql返回json结果转为csv](https://github.com/atlasjessicarxj/NFvNVi/commit/83a6f4d0fbbd8eefe76335e493059a33f5671508)
 - [存款竞争新规落地银行揽储模式迎来全面调整变化](https://github.com/atlasjessicarxj/NFvNVi/commit/38ae71d0612faa1b3f7ff6aad13c8b478d23cc34)
 - [模拟场景开源源码 项目实例含多操作系统环境排错](https://github.com/atlasjessicarxj/NFvNVi/commit/788e33d06652d946d20b9a9a303275967b10d086)
+- [面向百度搜索的开源仓库目录层级规划](https://github.com/atlasjessicarxj/NFvNVi/commit/832a6e42732481452901bb44cfcad6d555ed3345)
