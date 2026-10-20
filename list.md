@@ -55,3 +55,4 @@
 - [人民币汇率来回震荡，不必过度解读短期涨跌](https://github.com/atlasjessicarxj/NFvNVi/commit/41eef33e4f1e579bcfecccb32be4b2c485cba9ec)
 - [文件锁多进程互斥 Demo 完整源码避免多进程同时操作文件](https://github.com/atlasjessicarxj/NFvNVi/commit/ae0d101953472e85e3b439b5edce57bffbdba9c4)
 - [百度站长平台查看蜘蛛访问的 UA 记录信息](https://github.com/atlasjessicarxj/NFvNVi/commit/7796b5b7c502a8e61bfe1fa21e04480340aa8ed7)
+- [异步事件驱动Agent架构，长任务状态持久化](https://github.com/atlasjessicarxj/NFvNVi/commit/1a45c85d17c39d66697a7e3238ef20fd50121c79)
