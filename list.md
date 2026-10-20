@@ -120,3 +120,4 @@
 - [本地jsonl浏览查询工具，本地读取筛选jsonl数据集文件](https://github.com/atlasjessicarxj/NFvNVi/commit/e8d54cc411c8f46626edc8988ac370b8887c351e)
 - [低利率时代家庭理财如何选择，普通居民资产配置思路转变](https://github.com/atlasjessicarxj/NFvNVi/commit/d521f373e574f774fe5628403a69234bbedfcf62)
 - [Setup脚本没有权限检查，随意修改系统全局文件](https://github.com/atlasjessicarxj/NFvNVi/commit/822a7b69dbac385794ecd920142d417b6b2bbd84)
+- [无第三方依赖开源组件 二次开发文档与快速部署实操指南](https://github.com/atlasjessicarxj/NFvNVi/commit/0a86b2fea8a2eab4316c0f479e31c0c33fb717ec)
