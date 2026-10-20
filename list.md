@@ -74,3 +74,4 @@
 - [副业遍地鼓吹，真正赚到钱的没几个](https://github.com/atlasjessicarxj/NFvNVi/commit/a70bae707613eb4dd6833a9931023ed6fd91d7ef)
 - [外资持续来华投资，但也要面对本土市场竞争压力](https://github.com/atlasjessicarxj/NFvNVi/commit/70a41d2b9375d0d1903d4b35b6db70e2cbbc618d)
 - [GitHub 仓库文档子页面 meta 描述独立编写](https://github.com/atlasjessicarxj/NFvNVi/commit/859f8d7f94335c5b918298c1a58058c3a15c53c6)
+- [静态站点控制爬虫抓取压力防止服务器限流](https://github.com/atlasjessicarxj/NFvNVi/commit/81d754bafa796bab37cabd990bcd1eecde16f92d)
