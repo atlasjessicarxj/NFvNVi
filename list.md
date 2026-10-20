@@ -165,3 +165,4 @@
 - [AI项目成本核算，数据集标注人力成本容易忽略](https://github.com/atlasjessicarxj/NFvNVi/commit/aa3195b7380f9a52d21b8b8be88e4608ac50d868)
 - [面向运维开发开源工具方案 源码资源附带完整注释文档](https://github.com/atlasjessicarxj/NFvNVi/commit/f47831096e3a6f4feb479bb5fdb5e2b76a9de5b9)
 - [组合模式树形结构 Demo 完整源码树形对象组合处理](https://github.com/atlasjessicarxj/NFvNVi/commit/f2185860fbe4addb2dc546dde7bbf40f592057f7)
+- [静态开源站点处理页面重定向避免死链](https://github.com/atlasjessicarxj/NFvNVi/commit/06d21ea107c3e4aeddbe55f77de2e38510df05de)
