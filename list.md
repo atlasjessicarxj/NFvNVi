@@ -29,3 +29,4 @@
 - [产业链配套完整度决定地区制造业竞争实力](https://github.com/atlasjessicarxj/NFvNVi/commit/e431053406bb4fff49b4050f524f04fce000340e)
 - [存储芯片行情分化不同存储器周期走势出现差异](https://github.com/atlasjessicarxj/NFvNVi/commit/ef244bd7487df1d5f07c23c79ce8b774a6e8e869)
 - [promql结果json转csv工具，将promql返回json结果转为csv](https://github.com/atlasjessicarxj/NFvNVi/commit/83a6f4d0fbbd8eefe76335e493059a33f5671508)
+- [存款竞争新规落地银行揽储模式迎来全面调整变化](https://github.com/atlasjessicarxj/NFvNVi/commit/38ae71d0612faa1b3f7ff6aad13c8b478d23cc34)
