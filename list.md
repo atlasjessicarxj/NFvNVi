@@ -95,3 +95,4 @@
 - [GitHub 数据演示开源源码库 示例项目配套多环境适配文档](https://github.com/atlasjessicarxj/NFvNVi/commit/cd43b3d8876dfc73cea35b5cdd1399f76eafee53)
 - [艺术品财富配置兴起另类资产成为高净值家庭配置新选择](https://github.com/atlasjessicarxj/NFvNVi/commit/eab4fd6dd0b07e0b7e0a4ee1998c84879f3bd46d)
 - [PostgreSQL新特性实战，向量、全文检索原生能力](https://github.com/atlasjessicarxj/NFvNVi/commit/a6af8b48e92cfda7a85c53d61916763ffb29d1a5)
+- [国际供应链调整，国内产业需要提升自主可控能力](https://github.com/atlasjessicarxj/NFvNVi/commit/a9707b9d40c24fd9c56229fc475b6525fce96f78)
