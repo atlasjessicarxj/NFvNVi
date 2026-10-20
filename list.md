@@ -27,3 +27,4 @@
 - [csv多文件合并工具，多个csv文件合并输出单份csv表格](https://github.com/atlasjessicarxj/NFvNVi/commit/8003a0435b6406138101dafd8e8e47af3d87e24d)
 - [开源技术文档区分生产环境与测试环境配置](https://github.com/atlasjessicarxj/NFvNVi/commit/879e1142ac4717375c221390a3fffdf397a485d5)
 - [产业链配套完整度决定地区制造业竞争实力](https://github.com/atlasjessicarxj/NFvNVi/commit/e431053406bb4fff49b4050f524f04fce000340e)
+- [存储芯片行情分化不同存储器周期走势出现差异](https://github.com/atlasjessicarxj/NFvNVi/commit/ef244bd7487df1d5f07c23c79ce8b774a6e8e869)
