@@ -137,3 +137,4 @@
 - [青年副业常态化发展，主业副业权益边界](https://github.com/atlasjessicarxj/NFvNVi/commit/de6225deb83167e9483cfe77b1fd200685a16a8b)
 - [工业互联网工控安全，联网之后攻击面急剧扩大](https://github.com/atlasjessicarxj/NFvNVi/commit/866e6311a9767ae68493f2fb3d631295717d072d)
 - [openapi schema抽取工具，单独提取openapi中schema模型定义](https://github.com/atlasjessicarxj/NFvNVi/commit/b59b2456ddf9a81a376a264e72144b881c0d2338)
+- [接口开发开源实战仓库 完整源码附接口环境适配部署教程](https://github.com/atlasjessicarxj/NFvNVi/commit/6d30eff8f5b7e674ed83194e2187d3cf6738b1d7)
