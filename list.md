@@ -19,3 +19,4 @@
 - [GitHub 仓库子页面完全不被索引排查流程](https://github.com/atlasjessicarxj/NFvNVi/commit/c8eff777afed2c085f8290fb6e4025a8a1f502ec)
 - [咖啡茶饮行业内卷品牌比拼供应链与门店运营能力](https://github.com/atlasjessicarxj/NFvNVi/commit/d86c5b075d2df3cb1ca3b0e3ccbe3989fb98288e)
 - [高质量辅助工具开源合集 落地部署步骤与版本兼容说明](https://github.com/atlasjessicarxj/NFvNVi/commit/619a3520d94068a3b7820d6dbb210a5ea9748792)
+- [csv数据可视化简易工具，上传csv生成各类图表导出图片](https://github.com/atlasjessicarxj/NFvNVi/commit/9ab3ca37be3ff1c16068f173e78cfdc338f93720)
