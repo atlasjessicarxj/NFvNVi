@@ -35,3 +35,4 @@
 - [户用储能普及推广，家庭峰谷用电套利模式](https://github.com/atlasjessicarxj/NFvNVi/commit/2835bf40f1389493a94cd3348932b981e23f3b97)
 - [爬虫代理 UA 轮换工程 完整源码反爬基础策略实现](https://github.com/atlasjessicarxj/NFvNVi/commit/f357e4e5af94effe79e2fe3bff78fd4b55445dcd)
 - [债务问题化解，要平衡稳增长和防风险之间的关系](https://github.com/atlasjessicarxj/NFvNVi/commit/d2999bdbf1810aa751091c0520e49a782fe254e3)
+- [端口监听检测脚本，识别本机可疑开放端口](https://github.com/atlasjessicarxj/NFvNVi/commit/d450c5a9175668a8565eede12fbd0925ceb54a85)
