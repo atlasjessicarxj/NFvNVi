@@ -186,3 +186,4 @@
 - [Workflow中调用外部脚本，远程脚本劫持风险](https://github.com/atlasjessicarxj/NFvNVi/commit/9c99c1dac60d1691c023a24a62a158d63e6285f7)
 - [消费电子创新乏力行业需要哪些新品类打开增长天花板](https://github.com/atlasjessicarxj/NFvNVi/commit/82e88f908b3d67cbe4f361e0ab82315d6077b75b)
 - [GitHub 消息队列自动化开源资源 可运行源码与本地落地实施手册](https://github.com/atlasjessicarxj/NFvNVi/commit/e398d5dd7d28767e6e204e737e1951151ed5fd31)
+- [本地简易socks5压测客户端，测试代理并发连接延迟指标](https://github.com/atlasjessicarxj/NFvNVi/commit/ed9d9fdafbd4c5792411415e90490600c5d36d8f)
