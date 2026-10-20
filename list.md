@@ -21,3 +21,4 @@
 - [高质量辅助工具开源合集 落地部署步骤与版本兼容说明](https://github.com/atlasjessicarxj/NFvNVi/commit/619a3520d94068a3b7820d6dbb210a5ea9748792)
 - [csv数据可视化简易工具，上传csv生成各类图表导出图片](https://github.com/atlasjessicarxj/NFvNVi/commit/9ab3ca37be3ff1c16068f173e78cfdc338f93720)
 - [信号处理练手开源工程 完整源码处理系统信号捕获逻辑](https://github.com/atlasjessicarxj/NFvNVi/commit/ef794c862ad3ce668a17abcc139ccfaf59a8316a)
+- [目录文件重复后缀统计工具，统计目录下各类后缀文件数量占比](https://github.com/atlasjessicarxj/NFvNVi/commit/d889e2e01d41a62ed1661c2c0167fd59c169cbf3)
