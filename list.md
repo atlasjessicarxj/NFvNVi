@@ -191,3 +191,4 @@
 - [开源参考工具源码库 源码开放包含集成适配排错手册](https://github.com/atlasjessicarxj/NFvNVi/commit/1bd539eff0e4dc1012904fa15e013e775008f713)
 - [eBPF程序内核版本检查缺失，内核升级直接崩溃](https://github.com/atlasjessicarxj/NFvNVi/commit/70ab20b7aa6da92946c74ab0c023880b5aa6da3d)
 - [静态 HTML 页面手动配置全套 meta 标签](https://github.com/atlasjessicarxj/NFvNVi/commit/8f30e7d95178bbbb157db2214f8f78dbce401ce5)
+- [git打包archive自定义过滤，按路径过滤生成git archive归档](https://github.com/atlasjessicarxj/NFvNVi/commit/2a4c9d8f3cde2a75f36bf788e33b9524530ea070)
