@@ -116,3 +116,4 @@
 - [农村宅基地有偿退出，农民权益保障难点](https://github.com/atlasjessicarxj/NFvNVi/commit/1cb7fd5ca70c170b18b7e4c10b582cbfa5f14ab9)
 - [面向开发人员开源源码合集 实战案例含操作文档](https://github.com/atlasjessicarxj/NFvNVi/commit/d78621a69234dc3bc6386946a8f1cd8bbb6fa2ab)
 - [人民币走强，你的存款不会自动增值](https://github.com/atlasjessicarxj/NFvNVi/commit/b427f0a8ed7131f2124d4b85c2a9e53249d326cf)
+- [adb设备系统属性批量读取，批量获取安卓设备prop属性](https://github.com/atlasjessicarxj/NFvNVi/commit/c97e9a61acec8acbc428c5f6bc3e44fff6a9f6dd)
