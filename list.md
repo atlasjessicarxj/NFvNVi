@@ -11,3 +11,4 @@
 - [开源实战踩坑记录 GitHub 发布 SEO 优化思路](https://github.com/atlasjessicarxj/NFvNVi/commit/f6e40a919d650d3624b0f673181ea95523cb4fee)
 - [思维导图导出转换工具，mind文件转markdown图片pdf](https://github.com/atlasjessicarxj/NFvNVi/commit/cde45c55de29958ad8d18ec2e24a1bcaa67d294e)
 - [公积金提取条件放宽租房买房还贷如何提取公积金](https://github.com/atlasjessicarxj/NFvNVi/commit/4c9f698d2414dc340b8bc885684168e7f62048f3)
+- [全栈实战示例开源工程 开放源码包含调试排错完整手册](https://github.com/atlasjessicarxj/NFvNVi/commit/3ef9835af8ab05d555a5e15db4670f3a51f073fe)
