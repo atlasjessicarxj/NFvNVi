@@ -170,3 +170,4 @@
 - [物价联动补贴启动，哪些困难群体可以领到补贴](https://github.com/atlasjessicarxj/NFvNVi/commit/7fbffa9d107196359da890bab3bb1796abda3e6e)
 - [工业知识图谱自动构建，设备工艺非结构化抽取](https://github.com/atlasjessicarxj/NFvNVi/commit/4b0f74aa6f4702ec6232741d5a67b4b68ff11397)
 - [csv数据字段映射转换，字段重命名类型转换清洗数据](https://github.com/atlasjessicarxj/NFvNVi/commit/2add3cdf32809ff13e9cfa557c70f45b2fc5c922)
+- [社会救助主动识别困难家庭帮扶更加精准](https://github.com/atlasjessicarxj/NFvNVi/commit/e3b381d129ed5bf3e184c40a88c123d41803ac5d)
