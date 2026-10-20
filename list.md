@@ -26,3 +26,4 @@
 - [混沌工程落地误区，盲目注入故障搞垮生产](https://github.com/atlasjessicarxj/NFvNVi/commit/9591e6613d66c6eb10ecc6f6d0903f784d540823)
 - [csv多文件合并工具，多个csv文件合并输出单份csv表格](https://github.com/atlasjessicarxj/NFvNVi/commit/8003a0435b6406138101dafd8e8e47af3d87e24d)
 - [开源技术文档区分生产环境与测试环境配置](https://github.com/atlasjessicarxj/NFvNVi/commit/879e1142ac4717375c221390a3fffdf397a485d5)
+- [产业链配套完整度决定地区制造业竞争实力](https://github.com/atlasjessicarxj/NFvNVi/commit/e431053406bb4fff49b4050f524f04fce000340e)
