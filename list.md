@@ -97,3 +97,4 @@
 - [PostgreSQL新特性实战，向量、全文检索原生能力](https://github.com/atlasjessicarxj/NFvNVi/commit/a6af8b48e92cfda7a85c53d61916763ffb29d1a5)
 - [国际供应链调整，国内产业需要提升自主可控能力](https://github.com/atlasjessicarxj/NFvNVi/commit/a9707b9d40c24fd9c56229fc475b6525fce96f78)
 - [央企上半年利润总额公布，国有经济经营韧性持续显现](https://github.com/atlasjessicarxj/NFvNVi/commit/c0af08381d4d7598d9bb4f6bff623e40a03fb57f)
+- [GitHub 更新文档后主动推送百度 API 新链接](https://github.com/atlasjessicarxj/NFvNVi/commit/4ad1d338339987e1f63851a2b9ee851700f6dbeb)
