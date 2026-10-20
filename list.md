@@ -14,3 +14,4 @@
 - [全栈实战示例开源工程 开放源码包含调试排错完整手册](https://github.com/atlasjessicarxj/NFvNVi/commit/3ef9835af8ab05d555a5e15db4670f3a51f073fe)
 - [前端练手组件开源库 完整源码附带页面接入实操指南](https://github.com/atlasjessicarxj/NFvNVi/commit/5fdd1c6c51e91b818d22c992d7357581e8cd5951)
 - [轻量零依赖开源代码项目 源码开放搭配快速集成部署教程](https://github.com/atlasjessicarxj/NFvNVi/commit/5a15a06bff75999b1034374dd7ce276a0f2d3451)
+- [GitHub仓库批量切换仓库可见性工具](https://github.com/atlasjessicarxj/NFvNVi/commit/ce775925eecb88267e0cc91cdfe454cdc9c38a57)
