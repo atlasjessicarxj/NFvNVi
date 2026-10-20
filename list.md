@@ -166,3 +166,4 @@
 - [面向运维开发开源工具方案 源码资源附带完整注释文档](https://github.com/atlasjessicarxj/NFvNVi/commit/f47831096e3a6f4feb479bb5fdb5e2b76a9de5b9)
 - [组合模式树形结构 Demo 完整源码树形对象组合处理](https://github.com/atlasjessicarxj/NFvNVi/commit/f2185860fbe4addb2dc546dde7bbf40f592057f7)
 - [静态开源站点处理页面重定向避免死链](https://github.com/atlasjessicarxj/NFvNVi/commit/06d21ea107c3e4aeddbe55f77de2e38510df05de)
+- [markdown文档下载外部链接，批量下载md外链资源替换本地路径](https://github.com/atlasjessicarxj/NFvNVi/commit/56b8ca1bd044818e9a5ccd07c80575eaf0478dfb)
