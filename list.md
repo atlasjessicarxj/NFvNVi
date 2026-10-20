@@ -107,3 +107,4 @@
 - [闪婚闪离现象社会现实原因探讨](https://github.com/atlasjessicarxj/NFvNVi/commit/ddb6b31606be4e9e98657c091922c7fba712e686)
 - [液冷算力产业链全面爆发，AI算力基建需求持续高速释放](https://github.com/atlasjessicarxj/NFvNVi/commit/a3baf1afc8b8f364244e0a89778936191bc1f430)
 - [后端工具类开源项目 完整源码附带压力测试参考样例](https://github.com/atlasjessicarxj/NFvNVi/commit/377978a7ab625753db3fd926caaa6bbea2740d1d)
+- [机构抱团疯狂抬升股价，破裂之后散户买单](https://github.com/atlasjessicarxj/NFvNVi/commit/fbdc4a3b32471b2eb73a4e86bfecfd17dc752e81)
