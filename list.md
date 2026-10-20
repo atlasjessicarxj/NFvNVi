@@ -56,3 +56,4 @@
 - [文件锁多进程互斥 Demo 完整源码避免多进程同时操作文件](https://github.com/atlasjessicarxj/NFvNVi/commit/ae0d101953472e85e3b439b5edce57bffbdba9c4)
 - [百度站长平台查看蜘蛛访问的 UA 记录信息](https://github.com/atlasjessicarxj/NFvNVi/commit/7796b5b7c502a8e61bfe1fa21e04480340aa8ed7)
 - [异步事件驱动Agent架构，长任务状态持久化](https://github.com/atlasjessicarxj/NFvNVi/commit/1a45c85d17c39d66697a7e3238ef20fd50121c79)
+- [社会资本参与养老产业，盈利难与公益属性如何平衡](https://github.com/atlasjessicarxj/NFvNVi/commit/54a4b576f3d1a22e84f83ce19ecb410e82e9d7a5)
