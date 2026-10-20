@@ -37,3 +37,4 @@
 - [债务问题化解，要平衡稳增长和防风险之间的关系](https://github.com/atlasjessicarxj/NFvNVi/commit/d2999bdbf1810aa751091c0520e49a782fe254e3)
 - [端口监听检测脚本，识别本机可疑开放端口](https://github.com/atlasjessicarxj/NFvNVi/commit/d450c5a9175668a8565eede12fbd0925ceb54a85)
 - [镜像站点百度抓取返回 429 请求过多限流解决](https://github.com/atlasjessicarxj/NFvNVi/commit/bdbfd11a37fd4601108e9f97264770858957ecc0)
+- [开源项目完整实现 本地部署步骤与常见问题整理](https://github.com/atlasjessicarxj/NFvNVi/commit/c92466a6e5233302d45e0ff33717fd333f688f39)
