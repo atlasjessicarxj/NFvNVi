@@ -52,3 +52,4 @@
 - [模块化开发开源仓库 全套源码附集成排错完整教程](https://github.com/atlasjessicarxj/NFvNVi/commit/eda19cbf10cf48d010184339edf561d4aaa540b6)
 - [天天科普资产保值，部分操作反而加速资产缩水](https://github.com/atlasjessicarxj/NFvNVi/commit/bb2c487787f179b7dd45f40741428c82de6f516d)
 - [青年友好城市建设，吸引年轻人定居城市举措](https://github.com/atlasjessicarxj/NFvNVi/commit/c60e8ee789cd3b26bf4ea7f9d997eb312758b499)
+- [人民币汇率来回震荡，不必过度解读短期涨跌](https://github.com/atlasjessicarxj/NFvNVi/commit/41eef33e4f1e579bcfecccb32be4b2c485cba9ec)
