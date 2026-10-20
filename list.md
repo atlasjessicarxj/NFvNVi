@@ -93,3 +93,4 @@
 - [csv批量行列过滤导出，按条件筛选行列输出新csv文件](https://github.com/atlasjessicarxj/NFvNVi/commit/f4713fb79eb12832b1cf755dc7082ee5b7f7d89e)
 - [校园霸凌数字化治理，网络欺凌预防处置](https://github.com/atlasjessicarxj/NFvNVi/commit/aebdb54fd0c28a79ed7683fe770037145406c377)
 - [GitHub 数据演示开源源码库 示例项目配套多环境适配文档](https://github.com/atlasjessicarxj/NFvNVi/commit/cd43b3d8876dfc73cea35b5cdd1399f76eafee53)
+- [艺术品财富配置兴起另类资产成为高净值家庭配置新选择](https://github.com/atlasjessicarxj/NFvNVi/commit/eab4fd6dd0b07e0b7e0a4ee1998c84879f3bd46d)
