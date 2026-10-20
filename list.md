@@ -78,3 +78,4 @@
 - [ssh known_hosts主机名替换，批量修改known_hosts内主机名称](https://github.com/atlasjessicarxj/NFvNVi/commit/c06df3b8b82f7d93e64c692f958bea56668b10c3)
 - [城市房屋适老化改造，补贴申领实操指南](https://github.com/atlasjessicarxj/NFvNVi/commit/1d5a6696fa85f1061f88f6269e2277debc01e7b8)
 - [AI任务潮汐调度，业务波峰波谷算力弹性回收](https://github.com/atlasjessicarxj/NFvNVi/commit/1969907a4e8f05fec7a915e17810e4c27eb23cff)
+- [目录大小统计工具开源源码 完整源码递归统计文件夹体积](https://github.com/atlasjessicarxj/NFvNVi/commit/bd70318a8b673b3d8c5be603573310efeb3e036d)
