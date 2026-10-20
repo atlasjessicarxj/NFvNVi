@@ -50,3 +50,4 @@
 - [拿来即用接口代码资源库 全套源码配套运行异常处理方案](https://github.com/atlasjessicarxj/NFvNVi/commit/ad1f55bd1b967978c9c9f08bbb19707e02f27cd0)
 - [本地大模型推理开源项目，硬件适配碎片化问题](https://github.com/atlasjessicarxj/NFvNVi/commit/fb2ba40406464fe145e6538af9ae48c916944f03)
 - [模块化开发开源仓库 全套源码附集成排错完整教程](https://github.com/atlasjessicarxj/NFvNVi/commit/eda19cbf10cf48d010184339edf561d4aaa540b6)
+- [天天科普资产保值，部分操作反而加速资产缩水](https://github.com/atlasjessicarxj/NFvNVi/commit/bb2c487787f179b7dd45f40741428c82de6f516d)
