@@ -152,3 +152,4 @@
 - [锗镓等小金属出口调控关键矿产保供战略持续落地](https://github.com/atlasjessicarxj/NFvNVi/commit/9ca2b7ed5854dca0de3414a783b07b9d57513e73)
 - [AI辅助EDA芯片设计，架构探索与验证全流程](https://github.com/atlasjessicarxj/NFvNVi/commit/68b64734e0834b464bc3826b1fb1d91296f46bda)
 - [GitHub 编程开发者开源仓库 完整源码与踩坑经验汇总](https://github.com/atlasjessicarxj/NFvNVi/commit/0c73fefa506d8021f7eac60b0b601fa064babdc9)
+- [mqtt消息qos模拟测试工具，模拟不同qos级别消息收发测试](https://github.com/atlasjessicarxj/NFvNVi/commit/3a8c90872199c57c83a1fce9a755acc74db585be)
