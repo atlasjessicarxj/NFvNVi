@@ -183,3 +183,4 @@
 - [编辑距离字符串相似度源码 完整源码多算法相似度计算](https://github.com/atlasjessicarxj/NFvNVi/commit/85dc425f2751a55f89963a0353ed5e426a54d4a7)
 - [链表队列算法练手开源工程 完整源码实现基础数据结构示例](https://github.com/atlasjessicarxj/NFvNVi/commit/1ac25a996c0f5b0f5f229193e8a4cefd0066f8b7)
 - [开源实用代码资源库 完整工程附带踩坑复盘解决文档](https://github.com/atlasjessicarxj/NFvNVi/commit/5c7ef19a41e549a25aecef67a58ca71395a2ec7f)
+- [Workflow中调用外部脚本，远程脚本劫持风险](https://github.com/atlasjessicarxj/NFvNVi/commit/9c99c1dac60d1691c023a24a62a158d63e6285f7)
