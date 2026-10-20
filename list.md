@@ -130,3 +130,4 @@
 - [业委会规范化建设，业主自治落地现实阻碍](https://github.com/atlasjessicarxj/NFvNVi/commit/f44afa7fe630193fe0f2e4ac4645519d16aeff38)
 - [OpenEuler异构算力驱动，AI业务适配短板](https://github.com/atlasjessicarxj/NFvNVi/commit/2d69e4b50516e14897ae655c4c32fc742d68be95)
 - [驾校练车预约系统，练车时长签到统计报表](https://github.com/atlasjessicarxj/NFvNVi/commit/fcef4a6cd1a68e6e68151f3aa0ae49e110a6a70d)
+- [开源仓库安全扫描，第三方SAST工具误报泛滥](https://github.com/atlasjessicarxj/NFvNVi/commit/c6e0bada7aea532052dc7e5e62715b86106cfb45)
