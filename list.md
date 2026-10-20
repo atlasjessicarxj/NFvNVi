@@ -126,3 +126,4 @@
 - [布隆过滤器简易实现开源仓库 完整源码元素去重判断](https://github.com/atlasjessicarxj/NFvNVi/commit/7c37325e8d8bc96aa56d152ce58c5ef639a97273)
 - [GitHub 数据库演示开源项目 可运行源码附带 SQL 调试完整示例](https://github.com/atlasjessicarxj/NFvNVi/commit/5b67bc8c51f4150af79de344d3025cff79a195eb)
 - [公益信托快速发展，民间慈善新模式](https://github.com/atlasjessicarxj/NFvNVi/commit/588812a195c9b24d5aa27853692c5986b7cfcff6)
+- [开发者实用开源项目 全套源码附踩坑排错完整记录](https://github.com/atlasjessicarxj/NFvNVi/commit/0dbc725853e930338ffbf5e53f10155a9ec2f7b5)
