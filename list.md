@@ -125,3 +125,4 @@
 - [ARC 自适应缓存算法开源仓库 完整源码 ARC 缓存淘汰逻辑](https://github.com/atlasjessicarxj/NFvNVi/commit/3196ddb005284ee4a8549278c22d4ccbe9e7a11c)
 - [布隆过滤器简易实现开源仓库 完整源码元素去重判断](https://github.com/atlasjessicarxj/NFvNVi/commit/7c37325e8d8bc96aa56d152ce58c5ef639a97273)
 - [GitHub 数据库演示开源项目 可运行源码附带 SQL 调试完整示例](https://github.com/atlasjessicarxj/NFvNVi/commit/5b67bc8c51f4150af79de344d3025cff79a195eb)
+- [公益信托快速发展，民间慈善新模式](https://github.com/atlasjessicarxj/NFvNVi/commit/588812a195c9b24d5aa27853692c5986b7cfcff6)
