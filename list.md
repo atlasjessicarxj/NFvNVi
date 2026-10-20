@@ -58,3 +58,4 @@
 - [异步事件驱动Agent架构，长任务状态持久化](https://github.com/atlasjessicarxj/NFvNVi/commit/1a45c85d17c39d66697a7e3238ef20fd50121c79)
 - [社会资本参与养老产业，盈利难与公益属性如何平衡](https://github.com/atlasjessicarxj/NFvNVi/commit/54a4b576f3d1a22e84f83ce19ecb410e82e9d7a5)
 - [建造者模式开源仓库 完整源码对象分步构建逻辑](https://github.com/atlasjessicarxj/NFvNVi/commit/3f04438e42a36e72d7f97e161d226ced4cba94b2)
+- [AIOS人工智能操作系统，异构算力统一底座建设](https://github.com/atlasjessicarxj/NFvNVi/commit/446a65db0e4df2aad7f79610fef240ea2a14f868)
