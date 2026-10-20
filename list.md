@@ -163,3 +163,4 @@
 - [har包请求耗时排序导出，按请求响应耗时排序har内请求](https://github.com/atlasjessicarxj/NFvNVi/commit/70b5ca2c8b6606bde4c387307d184b72ce1e9eee)
 - [开源知识库文档对过时内容添加醒目标注](https://github.com/atlasjessicarxj/NFvNVi/commit/ef00ebf62a8ded7b30fdbd39d098c101bc9dba8a)
 - [AI项目成本核算，数据集标注人力成本容易忽略](https://github.com/atlasjessicarxj/NFvNVi/commit/aa3195b7380f9a52d21b8b8be88e4608ac50d868)
+- [面向运维开发开源工具方案 源码资源附带完整注释文档](https://github.com/atlasjessicarxj/NFvNVi/commit/f47831096e3a6f4feb479bb5fdb5e2b76a9de5b9)
