@@ -72,3 +72,4 @@
 - [开源Setup脚本，在root权限下执行风险](https://github.com/atlasjessicarxj/NFvNVi/commit/59f1f0af31e7a7b78b7df28b680149ebf9720b75)
 - [开源OCR工具，多语种识别模型体积过大](https://github.com/atlasjessicarxj/NFvNVi/commit/86afbe1897f290ec0dbf202ed2a47623f73c7c45)
 - [副业遍地鼓吹，真正赚到钱的没几个](https://github.com/atlasjessicarxj/NFvNVi/commit/a70bae707613eb4dd6833a9931023ed6fd91d7ef)
+- [外资持续来华投资，但也要面对本土市场竞争压力](https://github.com/atlasjessicarxj/NFvNVi/commit/70a41d2b9375d0d1903d4b35b6db70e2cbbc618d)
