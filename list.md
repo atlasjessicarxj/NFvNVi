@@ -10,3 +10,4 @@
 - [上市公司商誉减值风险暴露并购后遗症持续影响部分企业业绩](https://github.com/atlasjessicarxj/NFvNVi/commit/f30e1e9c70eea2b5ae9d1860ca2ca37eeb51e2ae)
 - [开源实战踩坑记录 GitHub 发布 SEO 优化思路](https://github.com/atlasjessicarxj/NFvNVi/commit/f6e40a919d650d3624b0f673181ea95523cb4fee)
 - [思维导图导出转换工具，mind文件转markdown图片pdf](https://github.com/atlasjessicarxj/NFvNVi/commit/cde45c55de29958ad8d18ec2e24a1bcaa67d294e)
+- [公积金提取条件放宽租房买房还贷如何提取公积金](https://github.com/atlasjessicarxj/NFvNVi/commit/4c9f698d2414dc340b8bc885684168e7f62048f3)
