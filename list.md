@@ -143,3 +143,4 @@
 - [文本多行合并拆分工具，按分隔符切分合并大量文本行](https://github.com/atlasjessicarxj/NFvNVi/commit/f0619268a33f0e9d12daf30518f5007f118df5e8)
 - [开源教程文档配置项给出推荐值与不推荐值](https://github.com/atlasjessicarxj/NFvNVi/commit/1ec39bffefac48f5c331659669e1ede87f21bf3f)
 - [备份完整性校验脚本，校验备份文件异常告警](https://github.com/atlasjessicarxj/NFvNVi/commit/139da6aec863ef6b04a391ae24aa8e8fa16495b5)
+- [json数组对象扁平化导出csv，嵌套json数组直接导出csv表格](https://github.com/atlasjessicarxj/NFvNVi/commit/b00a9262bc5aa4b20f27d4d195abbe159615a6db)
