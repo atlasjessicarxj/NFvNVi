@@ -6,3 +6,4 @@
 - [Markdown 文档 H1H2H3 标题合理设置百度 SEO](https://github.com/atlasjessicarxj/NFvNVi/commit/e965d967e44adbfe48b2e0a5edc69be3c5b070a1)
 - [服务器资源监控轻量脚本，cpu内存磁盘网络指标采集告警](https://github.com/atlasjessicarxj/NFvNVi/commit/242eb18aeaf43abf9690cd673866a5c9d6e67b04)
 - [Required Status检查过多，一个失败阻塞全部合并](https://github.com/atlasjessicarxj/NFvNVi/commit/a1be1ef51303bcce00191f142757ec29e2cbdf74)
+- [银发兴趣培训市场整治，老年培训骗局治理](https://github.com/atlasjessicarxj/NFvNVi/commit/9350d1c985b94ef760f300f7154c6e2f95a24b99)
