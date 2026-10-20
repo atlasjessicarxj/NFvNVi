@@ -136,3 +136,4 @@
 - [个体工商户简易注销小商户不想经营如何快速退出](https://github.com/atlasjessicarxj/NFvNVi/commit/5343caa8690700dcab8362a680421c6dd398877a)
 - [青年副业常态化发展，主业副业权益边界](https://github.com/atlasjessicarxj/NFvNVi/commit/de6225deb83167e9483cfe77b1fd200685a16a8b)
 - [工业互联网工控安全，联网之后攻击面急剧扩大](https://github.com/atlasjessicarxj/NFvNVi/commit/866e6311a9767ae68493f2fb3d631295717d072d)
+- [openapi schema抽取工具，单独提取openapi中schema模型定义](https://github.com/atlasjessicarxj/NFvNVi/commit/b59b2456ddf9a81a376a264e72144b881c0d2338)
