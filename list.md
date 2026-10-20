@@ -197,3 +197,4 @@
 - [Agent长会话持久化，过期会话状态丢失治理](https://github.com/atlasjessicarxj/NFvNVi/commit/013ae6551cb26fc6981ff2b1c0b81cc84b7314ce)
 - [装配式建筑政策加码建筑工业化带动装配式产业链发展机遇](https://github.com/atlasjessicarxj/NFvNVi/commit/fc8deb788796eb3b8357f8081eab16a60964f5ce)
 - [开源AI社区治理，模型权重版本发布流程](https://github.com/atlasjessicarxj/NFvNVi/commit/8b6596275f8cca574556d0d999142aea989ab962)
+- [量子通信示范项目落地量子技术民用化发展现状](https://github.com/atlasjessicarxj/NFvNVi/commit/721c2106e07055089cd212e3e6a5a5bf5fec53db)
