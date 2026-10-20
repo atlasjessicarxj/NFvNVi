@@ -181,3 +181,4 @@
 - [音频音频音量归一化，批量统一音频响度到标准值](https://github.com/atlasjessicarxj/NFvNVi/commit/58f4788ad4f2552c91ef4e013d2b4cd6b5b7c0fa)
 - [高校毕业生规模持续走高青年就业出路在哪](https://github.com/atlasjessicarxj/NFvNVi/commit/3b923116865a5b69b0fcdee9f7a8f5e32130f407)
 - [编辑距离字符串相似度源码 完整源码多算法相似度计算](https://github.com/atlasjessicarxj/NFvNVi/commit/85dc425f2751a55f89963a0353ed5e426a54d4a7)
+- [链表队列算法练手开源工程 完整源码实现基础数据结构示例](https://github.com/atlasjessicarxj/NFvNVi/commit/1ac25a996c0f5b0f5f229193e8a4cefd0066f8b7)
