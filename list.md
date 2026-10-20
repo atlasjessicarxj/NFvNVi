@@ -138,3 +138,4 @@
 - [工业互联网工控安全，联网之后攻击面急剧扩大](https://github.com/atlasjessicarxj/NFvNVi/commit/866e6311a9767ae68493f2fb3d631295717d072d)
 - [openapi schema抽取工具，单独提取openapi中schema模型定义](https://github.com/atlasjessicarxj/NFvNVi/commit/b59b2456ddf9a81a376a264e72144b881c0d2338)
 - [接口开发开源实战仓库 完整源码附接口环境适配部署教程](https://github.com/atlasjessicarxj/NFvNVi/commit/6d30eff8f5b7e674ed83194e2187d3cf6738b1d7)
+- [本地二进制文件字节替换工具，对二进制文件批量字节替换](https://github.com/atlasjessicarxj/NFvNVi/commit/1c432d5e390ce5ae111e58660a703cab5b7c39e4)
