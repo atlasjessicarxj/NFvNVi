@@ -150,3 +150,4 @@
 - [csv批量拆分按指定列值，根据某列内容将csv拆分成多个文件](https://github.com/atlasjessicarxj/NFvNVi/commit/c45221b611c68cef9d2e463ac1ce5546565ab60f)
 - [文件扩展属性读写工具，读写linux文件扩展属性导出](https://github.com/atlasjessicarxj/NFvNVi/commit/d6d83e6f781e349ec6ec8163618c1a5b1faa3583)
 - [锗镓等小金属出口调控关键矿产保供战略持续落地](https://github.com/atlasjessicarxj/NFvNVi/commit/9ca2b7ed5854dca0de3414a783b07b9d57513e73)
+- [AI辅助EDA芯片设计，架构探索与验证全流程](https://github.com/atlasjessicarxj/NFvNVi/commit/68b64734e0834b464bc3826b1fb1d91296f46bda)
