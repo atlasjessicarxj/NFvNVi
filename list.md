@@ -49,3 +49,4 @@
 - [绿色AI，大模型训练推理降能耗、碳成本核算](https://github.com/atlasjessicarxj/NFvNVi/commit/41235723e1788c568208b0dccd30280364ba2ed8)
 - [拿来即用接口代码资源库 全套源码配套运行异常处理方案](https://github.com/atlasjessicarxj/NFvNVi/commit/ad1f55bd1b967978c9c9f08bbb19707e02f27cd0)
 - [本地大模型推理开源项目，硬件适配碎片化问题](https://github.com/atlasjessicarxj/NFvNVi/commit/fb2ba40406464fe145e6538af9ae48c916944f03)
+- [模块化开发开源仓库 全套源码附集成排错完整教程](https://github.com/atlasjessicarxj/NFvNVi/commit/eda19cbf10cf48d010184339edf561d4aaa540b6)
