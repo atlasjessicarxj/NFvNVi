@@ -67,3 +67,4 @@
 - [开源仓库杜绝直接搬运网络现成文档内容](https://github.com/atlasjessicarxj/NFvNVi/commit/2061575765e0d06da6035125744029a260e6b179)
 - [可复用开源代码库 实战源码附带集成使用教程](https://github.com/atlasjessicarxj/NFvNVi/commit/cf8a53392e3ea520da801da8a896d589d63e16c2)
 - [大文件分片上传合并开源仓库 完整源码分片上传断点续传基础](https://github.com/atlasjessicarxj/NFvNVi/commit/efd7fc591bc2e7ae851275de626a50e65b3bf4fc)
+- [开源知识库仓库规避重复内容防止降权](https://github.com/atlasjessicarxj/NFvNVi/commit/670f2bea60f66d86931c7778a2a3b40f79cca514)
