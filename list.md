@@ -132,3 +132,4 @@
 - [驾校练车预约系统，练车时长签到统计报表](https://github.com/atlasjessicarxj/NFvNVi/commit/fcef4a6cd1a68e6e68151f3aa0ae49e110a6a70d)
 - [开源仓库安全扫描，第三方SAST工具误报泛滥](https://github.com/atlasjessicarxj/NFvNVi/commit/c6e0bada7aea532052dc7e5e62715b86106cfb45)
 - [k8s pod容器镜像版本巡检，批量收集pod使用镜像版本](https://github.com/atlasjessicarxj/NFvNVi/commit/28280a842e52366f3735781cbc5083a06f4c566d)
+- [轻量缓存调试开源组件 开源源码搭配缓存快速接入教程](https://github.com/atlasjessicarxj/NFvNVi/commit/4ec709aa51ff185155e2c6923ca2deb6a7bd8a31)
