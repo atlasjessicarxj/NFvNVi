@@ -118,3 +118,4 @@
 - [人民币走强，你的存款不会自动增值](https://github.com/atlasjessicarxj/NFvNVi/commit/b427f0a8ed7131f2124d4b85c2a9e53249d326cf)
 - [adb设备系统属性批量读取，批量获取安卓设备prop属性](https://github.com/atlasjessicarxj/NFvNVi/commit/c97e9a61acec8acbc428c5f6bc3e44fff6a9f6dd)
 - [本地jsonl浏览查询工具，本地读取筛选jsonl数据集文件](https://github.com/atlasjessicarxj/NFvNVi/commit/e8d54cc411c8f46626edc8988ac370b8887c351e)
+- [低利率时代家庭理财如何选择，普通居民资产配置思路转变](https://github.com/atlasjessicarxj/NFvNVi/commit/d521f373e574f774fe5628403a69234bbedfcf62)
