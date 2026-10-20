@@ -65,3 +65,4 @@
 - [github仓库dependabot配置解析导出，解析dependabot配置更新规则](https://github.com/atlasjessicarxj/NFvNVi/commit/4970ba70b7a9f3729dad71c6c0d3c5b597786e53)
 - [灰度发布简易控制脚本，流量切分版本切换回滚工具](https://github.com/atlasjessicarxj/NFvNVi/commit/754006eba22528416d4fe161dc3879bb38ad17ad)
 - [开源仓库杜绝直接搬运网络现成文档内容](https://github.com/atlasjessicarxj/NFvNVi/commit/2061575765e0d06da6035125744029a260e6b179)
+- [可复用开源代码库 实战源码附带集成使用教程](https://github.com/atlasjessicarxj/NFvNVi/commit/cf8a53392e3ea520da801da8a896d589d63e16c2)
