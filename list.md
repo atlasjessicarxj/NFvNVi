@@ -178,3 +178,4 @@
 - [市场遍地机会，为什么普通人越理财越亏](https://github.com/atlasjessicarxj/NFvNVi/commit/dc712f4f7cadc4a1407037e7fcd2bd1c700bb637)
 - [har包请求body导出保存，把har内请求体响应体保存为独立文件](https://github.com/atlasjessicarxj/NFvNVi/commit/ed152e1d8d80ed65e645dbc43baf4b843bbc2fce)
 - [海外供应链重构，本土企业抢抓新兴市场的机遇挑战](https://github.com/atlasjessicarxj/NFvNVi/commit/8784290a403b2d0e050bcce9e1e93293cfd0c1eb)
+- [音频音频音量归一化，批量统一音频响度到标准值](https://github.com/atlasjessicarxj/NFvNVi/commit/58f4788ad4f2552c91ef4e013d2b4cd6b5b7c0fa)
