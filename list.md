@@ -199,3 +199,4 @@
 - [开源AI社区治理，模型权重版本发布流程](https://github.com/atlasjessicarxj/NFvNVi/commit/8b6596275f8cca574556d0d999142aea989ab962)
 - [量子通信示范项目落地量子技术民用化发展现状](https://github.com/atlasjessicarxj/NFvNVi/commit/721c2106e07055089cd212e3e6a5a5bf5fec53db)
 - [板块切换瞬息万变，追热点大多高位站岗](https://github.com/atlasjessicarxj/NFvNVi/commit/7a7495645c7b6161130ce4b6e0306040f05f2b02)
+- [REST API演进，GraphQL与RPC选型取舍](https://github.com/atlasjessicarxj/NFvNVi/commit/46c1c914787f3a5ff0f5876abf5606779a2b94c1)
