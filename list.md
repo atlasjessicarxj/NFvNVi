@@ -80,3 +80,4 @@
 - [AI任务潮汐调度，业务波峰波谷算力弹性回收](https://github.com/atlasjessicarxj/NFvNVi/commit/1969907a4e8f05fec7a915e17810e4c27eb23cff)
 - [目录大小统计工具开源源码 完整源码递归统计文件夹体积](https://github.com/atlasjessicarxj/NFvNVi/commit/bd70318a8b673b3d8c5be603573310efeb3e036d)
 - [照搬大佬资产配置，越配置账户亏得越多](https://github.com/atlasjessicarxj/NFvNVi/commit/d8acb8e0a9d170f3189d8cc06669e6017a0da3cd)
+- [redis模块信息读取工具，读取redis模块参数配置导出](https://github.com/atlasjessicarxj/NFvNVi/commit/144a4d669909d485ca5a34177b59458bc2173c1f)
