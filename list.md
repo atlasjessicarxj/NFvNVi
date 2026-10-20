@@ -101,3 +101,4 @@
 - [简易时间轮调度开源仓库 完整源码时间轮实现延时任务](https://github.com/atlasjessicarxj/NFvNVi/commit/f92ff8a093d219cd836f65536ed12c12620be91c)
 - [开源知识库做好新旧版本内容区分隔离](https://github.com/atlasjessicarxj/NFvNVi/commit/cf99846fdb7e4ae923ac5969dd930fcf94fe2e8f)
 - [维护者单方面宣布弃坑，社区毫无准备如何应对](https://github.com/atlasjessicarxj/NFvNVi/commit/56df1a12d02007349a95246d3ce93ade19ad0eee)
+- [意定监护普及，成年人自我监护制度推广](https://github.com/atlasjessicarxj/NFvNVi/commit/d37c63d53e1b9eeadcf1dec1edbfd83d49497672)
