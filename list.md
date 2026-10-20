@@ -69,3 +69,4 @@
 - [大文件分片上传合并开源仓库 完整源码分片上传断点续传基础](https://github.com/atlasjessicarxj/NFvNVi/commit/efd7fc591bc2e7ae851275de626a50e65b3bf4fc)
 - [开源知识库仓库规避重复内容防止降权](https://github.com/atlasjessicarxj/NFvNVi/commit/670f2bea60f66d86931c7778a2a3b40f79cca514)
 - [AI安全运营平台，集中管控多业务大模型风险](https://github.com/atlasjessicarxj/NFvNVi/commit/1efd676451d593cf56c836dc0d78f9d5332db5f1)
+- [开源Setup脚本，在root权限下执行风险](https://github.com/atlasjessicarxj/NFvNVi/commit/59f1f0af31e7a7b78b7df28b680149ebf9720b75)
