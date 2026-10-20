@@ -148,3 +148,4 @@
 - [服务实例权重管理源码 完整源码实例权重动态调整](https://github.com/atlasjessicarxj/NFvNVi/commit/c9f771684bf1f03dcb36fa7f5bdfaa07078321d7)
 - [AI数据集开源治理，脏数据、偏见数据清理](https://github.com/atlasjessicarxj/NFvNVi/commit/3a991d7b7c586eed789cd6ae6dec180ef3ae2a3c)
 - [csv批量拆分按指定列值，根据某列内容将csv拆分成多个文件](https://github.com/atlasjessicarxj/NFvNVi/commit/c45221b611c68cef9d2e463ac1ce5546565ab60f)
+- [文件扩展属性读写工具，读写linux文件扩展属性导出](https://github.com/atlasjessicarxj/NFvNVi/commit/d6d83e6f781e349ec6ec8163618c1a5b1faa3583)
