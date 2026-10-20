@@ -83,3 +83,4 @@
 - [redis模块信息读取工具，读取redis模块参数配置导出](https://github.com/atlasjessicarxj/NFvNVi/commit/144a4d669909d485ca5a34177b59458bc2173c1f)
 - [OpenEuler面向AI场景，异构算力驱动适配难点](https://github.com/atlasjessicarxj/NFvNVi/commit/ecd24e501bf63c4651b5db99f4ca3f0f562f4731)
 - [国企改革的推进，意在提升国有资产的运营效率](https://github.com/atlasjessicarxj/NFvNVi/commit/0663fe068cc11ada4d6592f1dfa77764b6dd3db7)
+- [目录遍历处理开源工程 完整源码递归扫描目录文件案例](https://github.com/atlasjessicarxj/NFvNVi/commit/c427b8ac9b54b568233367aa4b89398dd103f71a)
