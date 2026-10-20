@@ -62,3 +62,4 @@
 - [静态开源站点 canonical 标签使用的正确场景](https://github.com/atlasjessicarxj/NFvNVi/commit/4c7eaa3dfb00df3ccfa3fccafa537237ff4821c1)
 - [多子女家庭赡养分摊现实难题如何平衡家庭开支](https://github.com/atlasjessicarxj/NFvNVi/commit/29bb3cbdaaa69eb08edf7586afe275f9af26024a)
 - [用户不提供最小复现仓库，Issue难以定位bug](https://github.com/atlasjessicarxj/NFvNVi/commit/1a577ea5cf2615a355509a5f14382b6816b72828)
+- [github仓库dependabot配置解析导出，解析dependabot配置更新规则](https://github.com/atlasjessicarxj/NFvNVi/commit/4970ba70b7a9f3729dad71c6c0d3c5b597786e53)
