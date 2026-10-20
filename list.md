@@ -44,3 +44,4 @@
 - [文本行后缀匹配过滤工具，按后缀过滤保留文本行](https://github.com/atlasjessicarxj/NFvNVi/commit/11df45080d13b2647ea62ff28319b4cc125c6d80)
 - [保交楼收尾工作推进出险楼盘处置之后遗留问题如何化解](https://github.com/atlasjessicarxj/NFvNVi/commit/545268f5ad11681185e276c39d0b5fe4f6cfd940)
 - [智能排班调度开源系统，自动生成班次调班统计导出报表](https://github.com/atlasjessicarxj/NFvNVi/commit/1199a511ea6c1cd313019f27b3222bdba50f9dc6)
+- [开源社区投票决策，简单投票是否适合技术项目](https://github.com/atlasjessicarxj/NFvNVi/commit/39d62bfcfb8e59453979f71e29291b2791865c94)
