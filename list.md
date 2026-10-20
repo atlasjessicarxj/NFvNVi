@@ -79,3 +79,4 @@
 - [城市房屋适老化改造，补贴申领实操指南](https://github.com/atlasjessicarxj/NFvNVi/commit/1d5a6696fa85f1061f88f6269e2277debc01e7b8)
 - [AI任务潮汐调度，业务波峰波谷算力弹性回收](https://github.com/atlasjessicarxj/NFvNVi/commit/1969907a4e8f05fec7a915e17810e4c27eb23cff)
 - [目录大小统计工具开源源码 完整源码递归统计文件夹体积](https://github.com/atlasjessicarxj/NFvNVi/commit/bd70318a8b673b3d8c5be603573310efeb3e036d)
+- [照搬大佬资产配置，越配置账户亏得越多](https://github.com/atlasjessicarxj/NFvNVi/commit/d8acb8e0a9d170f3189d8cc06669e6017a0da3cd)
