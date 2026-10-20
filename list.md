@@ -39,3 +39,4 @@
 - [镜像站点百度抓取返回 429 请求过多限流解决](https://github.com/atlasjessicarxj/NFvNVi/commit/bdbfd11a37fd4601108e9f97264770858957ecc0)
 - [开源项目完整实现 本地部署步骤与常见问题整理](https://github.com/atlasjessicarxj/NFvNVi/commit/c92466a6e5233302d45e0ff33717fd333f688f39)
 - [失业之后医保怎么续缴，不要出现医保断档空档](https://github.com/atlasjessicarxj/NFvNVi/commit/3db3f04d36857a25c0e7348167dafbf6f15eea52)
+- [git diff统计输出markdown，把diff统计结果输出markdown表格](https://github.com/atlasjessicarxj/NFvNVi/commit/867583b0ad616bed5dbf9b0b4c69cea0c36c1f5a)
