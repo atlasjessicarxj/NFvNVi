@@ -172,3 +172,4 @@
 - [csv数据字段映射转换，字段重命名类型转换清洗数据](https://github.com/atlasjessicarxj/NFvNVi/commit/2add3cdf32809ff13e9cfa557c70f45b2fc5c922)
 - [社会救助主动识别困难家庭帮扶更加精准](https://github.com/atlasjessicarxj/NFvNVi/commit/e3b381d129ed5bf3e184c40a88c123d41803ac5d)
 - [特征存储Feature‑Store多版本特征一致性问题](https://github.com/atlasjessicarxj/NFvNVi/commit/59c4b3c1738ad911049749d56e19f5f0dccd5e0e)
+- [Agent数字身份体系，智能体账号生命周期治理](https://github.com/atlasjessicarxj/NFvNVi/commit/fe32ac08c40bc6c7d641889f312a7e763a2ed4e4)
