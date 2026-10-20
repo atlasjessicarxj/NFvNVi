@@ -128,3 +128,4 @@
 - [公益信托快速发展，民间慈善新模式](https://github.com/atlasjessicarxj/NFvNVi/commit/588812a195c9b24d5aa27853692c5986b7cfcff6)
 - [开发者实用开源项目 全套源码附踩坑排错完整记录](https://github.com/atlasjessicarxj/NFvNVi/commit/0dbc725853e930338ffbf5e53f10155a9ec2f7b5)
 - [业委会规范化建设，业主自治落地现实阻碍](https://github.com/atlasjessicarxj/NFvNVi/commit/f44afa7fe630193fe0f2e4ac4645519d16aeff38)
+- [OpenEuler异构算力驱动，AI业务适配短板](https://github.com/atlasjessicarxj/NFvNVi/commit/2d69e4b50516e14897ae655c4c32fc742d68be95)
