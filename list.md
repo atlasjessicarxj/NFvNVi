@@ -196,3 +196,4 @@
 - [轻量开源解决方案 完整工程附带使用演示文档](https://github.com/atlasjessicarxj/NFvNVi/commit/f10c369e5abfb7fa2386d0cea417b63a996f36e3)
 - [Agent长会话持久化，过期会话状态丢失治理](https://github.com/atlasjessicarxj/NFvNVi/commit/013ae6551cb26fc6981ff2b1c0b81cc84b7314ce)
 - [装配式建筑政策加码建筑工业化带动装配式产业链发展机遇](https://github.com/atlasjessicarxj/NFvNVi/commit/fc8deb788796eb3b8357f8081eab16a60964f5ce)
+- [开源AI社区治理，模型权重版本发布流程](https://github.com/atlasjessicarxj/NFvNVi/commit/8b6596275f8cca574556d0d999142aea989ab962)
